@@ -232,7 +232,7 @@ var customSearch;
 		    $toc.addClass('active');
 		});
 		$(document).click(() => $toc.removeClass('active'));
-
+        
 		$toc.on('click', 'a', (e) => {
 			e.preventDefault();
 			e.stopPropagation();

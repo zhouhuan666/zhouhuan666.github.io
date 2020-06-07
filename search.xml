@@ -4,6 +4,70 @@
   
     
     <entry>
+      <title>火影忍者剧场版:终章[电影]</title>
+      <link href="/2020/06/07/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%89%A7%E5%9C%BA%E7%89%88-%E7%BB%88%E7%AB%A0-%E7%94%B5%E5%BD%B1/"/>
+      <url>/2020/06/07/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%89%A7%E5%9C%BA%E7%89%88-%E7%BB%88%E7%AB%A0-%E7%94%B5%E5%BD%B1/</url>
+      
+        <content type="html"><![CDATA[<img src='https://cdn.jsdelivr.net/gh/zhouhuan666/BlogAssets@0.13/SettingPic/Huoyingrenzhezz.jpg'><p>  第四次忍界大战结束的两年后，此时此刻的漩涡鸣人早已成为盖世英雄一般的人物，无论他走到哪里都受到女孩子和小朋友的喜爱与追捧，他似乎也有其享受这样喧嚣欢闹的氛围。与之相对，壁花小姐日向雏田则始终站在角落里，默默注视着这个她喜欢了多年的男孩子。雏田亲手为鸣人织了围巾，怎奈无法鼓足勇气交给对方，喜欢的话语更难以说出口。某个夜晚，雏田的妹妹花火遭到不明身份之人劫持，带火的陨石则落在附近的山坡之上。为了救回花火，阻止地球毁灭，鸣人、雏田、小樱、鹿丸和佐井奉命前去调查舍人的真身。在此过程中，鸣人不小心知晓了雏田的心意……</p><a id="more"></a><div id="dplayer"></div><script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script><script src="/assets/js/DPlayer.min.js"></script><script>const dp = new DPlayer({    container: document.getElementById('dplayer'),    video: {        url: 'https://sina.com-h-sina.com/20180801/4568_6547c25d/index.m3u8',        type: 'hls',    },    pluginOptions: {        hls: {            // hls config        },    },});console.log(dp.plugins.hls); // Hls 实例</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电影 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 动漫 </tag>
+            
+            <tag> 电影 </tag>
+            
+            <tag> 火影忍者 </tag>
+            
+            <tag> 岸本齐史 </tag>
+            
+            <tag> 小林常夫 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>天气之子[电影]</title>
+      <link href="/2020/06/07/%E5%A4%A9%E6%B0%94%E4%B9%8B%E5%AD%90-%E7%94%B5%E5%BD%B1/"/>
+      <url>/2020/06/07/%E5%A4%A9%E6%B0%94%E4%B9%8B%E5%AD%90-%E7%94%B5%E5%BD%B1/</url>
+      
+        <content type="html"><![CDATA[<img src='https://cdn.jsdelivr.net/gh/zhouhuan666/BlogAssets@0.13/SettingPic/Tianqizhizi.jpg'><p>“想尝试前往，那道光芒之中”<br>高中一年级的夏天，从离岛离家出走，来到东京的帆高。但是他的生活立马变得穷困，在度过孤独的每一天之后终于找到的工作，是为古怪的超自然杂志撰稿。<br>如同预示着他接下来的命运一般，连日不断地下雨。此时，在人潮熙熙攘攘的都市一角，帆高遇到了一位少女。<br>由于某些缘故，少女·阳菜和弟弟两人一起坚强生活。而她，拥有不可思议的能力。<br>“呐，现在开始就要放晴了哦”<br>雨逐渐停止，街道笼罩在美丽的光芒中。那是仅仅在心中祈祷，就能让天空放晴的力量——</p><a id="more"></a><div id="dplayer"></div><script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script><script src="/assets/js/DPlayer.min.js"></script><script>const dp = new DPlayer({    container: document.getElementById('dplayer'),    video: {        url: 'https://youku.cdn7-okzy.com/20200528/19756_609dc348/index.m3u8',        type: 'hls',    },    pluginOptions: {        hls: {            // hls config        },    },});console.log(dp.plugins.hls); // Hls 实例</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电影 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 动漫 </tag>
+            
+            <tag> 电影 </tag>
+            
+            <tag> 天气之子 </tag>
+            
+            <tag> 新海诚 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo+github搭建博客及相关使用</title>
       <link href="/2020/06/05/Hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E4%BD%BF%E7%94%A8/"/>
       <url>/2020/06/05/Hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E4%BD%BF%E7%94%A8/</url>
@@ -39,7 +103,7 @@
       <link href="/2020/06/05/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97-%E7%94%B5%E5%BD%B1/"/>
       <url>/2020/06/05/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97-%E7%94%B5%E5%BD%B1/</url>
       
-        <content type="html"><![CDATA[<img src='https://cdn.jsdelivr.net/gh/zhouhuan666/BlogAssets@0.12/SettingPic/Yourname.jpg'><p>故事发生的地点是在每千年回归一次的彗星造访过一个月之前，<br>日本飞驒市的乡下小町糸守町。在这里女高中生三叶每天都过着忧郁的生活，而她烦恼的不光有担任町长的父亲所举行的选举运动，还有家传神社的古老习俗。在这个小小的町，周围都只是些爱瞎操心的老人。为此三叶对于大都市充满了憧憬。<br>然而某一天，自己做了一个变成男孩子的梦。这里有着陌生的房间、陌生的朋友。而眼前出现的则是东京的街道。三叶虽然感到困惑，但是能够来到朝思暮想的都市生活，让她觉得神清气爽。另一方面在东京生活的男高中生立花泷也做了个奇怪的梦，他在一个从未去过的深山小町中，变成了女高中生。两人就这样在梦中邂逅了彼此。</p><a id="more"></a><div id="dplayer"></div><script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script><script src="/assets/js/DPlayer.min.js"></script><script>const dp = new DPlayer({    container: document.getElementById('dplayer'),    video: {        url: 'https://cdn.jsdelivr.net/gh/huxx16/m3u8/yourname/playlist.m3u8',        type: 'hls',    },    pluginOptions: {        hls: {            // hls config        },    },});console.log(dp.plugins.hls); // Hls 实例</script>]]></content>
+        <content type="html"><![CDATA[<img src='https://cdn.jsdelivr.net/gh/zhouhuan666/BlogAssets@0.12/SettingPic/Yourname.jpg'><p>故事发生的地点是在每千年回归一次的彗星造访过一个月之前，<br>日本飞驒市的乡下小町糸守町。在这里女高中生三叶每天都过着忧郁的生活，而她烦恼的不光有担任町长的父亲所举行的选举运动，还有家传神社的古老习俗。在这个小小的町，周围都只是些爱瞎操心的老人。为此三叶对于大都市充满了憧憬。<br>然而某一天，自己做了一个变成男孩子的梦。这里有着陌生的房间、陌生的朋友。而眼前出现的则是东京的街道。三叶虽然感到困惑，但是能够来到朝思暮想的都市生活，让她觉得神清气爽。另一方面在东京生活的男高中生立花泷也做了个奇怪的梦，他在一个从未去过的深山小町中，变成了女高中生。两人就这样在梦中邂逅了彼此。</p><a id="more"></a><div id="dplayer"></div><script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script><script src="/assets/js/DPlayer.min.js"></script><script>const dp = new DPlayer({    container: document.getElementById('dplayer'),    video: {        url: 'https://dapian.video-yongjiu.com/20190530/209_6cdbcaa3/index.m3u8',        type: 'hls',    },    pluginOptions: {        hls: {            // hls config        },    },});console.log(dp.plugins.hls); // Hls 实例</script>]]></content>
       
       
       <categories>
@@ -56,6 +120,8 @@
             <tag> 你的名字 </tag>
             
             <tag> 电影 </tag>
+            
+            <tag> 新海诚 </tag>
             
         </tags>
       
