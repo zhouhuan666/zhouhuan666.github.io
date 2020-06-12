@@ -895,27 +895,29 @@
     <br><br>
     
       
-        <div class="aplayer-container">
-          
-
-  
-    <meting-js
-      theme='#1BCDFC'
-      autoplay='true'
-      volume='0.3'
-      loop='all'
-      order='random'
-      fixed='false'
-      list-max-height='340px'
-      server='netease'
-      type='playlist'
-      id='5050141956'
-      list-folded='true'>
-    </meting-js>
-  
-
-
-        </div>
+	 <link rel="stylesheet" href="/assets/css/APlayer.min.css">
+<div id="aplayer"></div>
+<script src="/assets/js/APlayer.min.js"></script>
+<script>
+    const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: true,                //是否附着页面底部，否为false
+        volume: 0.7,                //初始音量（0~1）
+        lrcType: 3,                 //歌词模式（1、HTML模式 2、js模式 3、lrc文件模式）
+        mutex: true,                //互斥模式：阻止多个播放器同时播放，当前播放器播放时暂停其他播放器
+        order: 'random',            //音频循环顺序（'list'：顺序, 'random'：随机）
+        preload: 'none',            //预加载（'none'：不预加载, 'metadata'：元数据, 'auto'：自动）
+        listFolded: false,          //列表默认折叠，开启为true
+        theme: '#ee8243',           //主题颜色
+        audio: [{
+            name: '藏',           //歌曲名称
+            artist: '徐梦圆',       //歌曲作者
+            url: 'http://music.163.com/api/song/media?id=551339572',         //歌曲源文件地址
+            cover: 'http://p1.music.126.net/pDNcKfYo2KeM4DIZSviHww==/109951163243260916.jpg',     //歌曲封面地址
+            theme: '#eeeeee'        //主题颜色（优先）
+        }]
+    });
+</script>
       
     
       
