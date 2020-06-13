@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>流浪地球[电影]</title>
+      <link href="/2020/06/13/%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83-%E7%94%B5%E5%BD%B1/"/>
+      <url>/2020/06/13/%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83-%E7%94%B5%E5%BD%B1/</url>
+      
+        <content type="html"><![CDATA[<img src='https://cdn.jsdelivr.net/gh/zhouhuan666/BlogAssets@0.15/SettingPic/liulangdiqiu.jpg'><div class="note quote">            <p>近年来，科学家们发现太阳急速衰老膨胀，短时间内包括地球在内的整个太阳系都将被太阳所吞没。为了自救，人类提出一个名为“流浪地球”的大胆计划，即倾全球之力在地球表面建造上万座发动机和转向发动机，推动地球离开太阳系，用2500年的时间奔往新家园。<br>中国航天员刘培强在儿子刘启四岁那年前往领航员空间站，和国际同侪肩负起领航者的重任。转眼刘启长大，他带着妹妹韩朵朵偷偷跑到地表，偷开外公韩子昂的运输车，结果不仅遭到逮捕，还遭遇了全球发动机停摆的事件。为了修好发动机，阻止地球坠入木星，全球开始展开饱和式营救，连刘启他们的车也被强征加入。在与时间赛跑的过程中，无数的人前仆后继，奋不顾身，只为延续百代子孙生存的希望。</p>          </div><a id="more"></a><div id="dplayer"></div><script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script><script src="/assets/js/DPlayer.min.js"></script><script>const dp = new DPlayer({    container: document.getElementById('dplayer'),    video: {        url: 'https://iqiyi.com-t-iqiyi.com/20190426/1894_59b6d889/index.m3u8',        type: 'hls',    },    pluginOptions: {        hls: {            // hls config        },    },});console.log(dp.plugins.hls); // Hls 实例</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电影 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电影 </tag>
+            
+            <tag> 科幻 </tag>
+            
+            <tag> 吴京 </tag>
+            
+            <tag> 流浪地球 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>火影忍者剧场版:终章[电影]</title>
       <link href="/2020/06/07/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%89%A7%E5%9C%BA%E7%89%88-%E7%BB%88%E7%AB%A0-%E7%94%B5%E5%BD%B1/"/>
       <url>/2020/06/07/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%89%A7%E5%9C%BA%E7%89%88-%E7%BB%88%E7%AB%A0-%E7%94%B5%E5%BD%B1/</url>
